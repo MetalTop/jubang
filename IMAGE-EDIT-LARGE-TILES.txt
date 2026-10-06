@@ -1,5 +1,0 @@
-Tool: built-in image_gen imagegen
-Input: dist/sink-countertop-sky.png
-Output: dist/sink-countertop-large-tiles.png
-
-Use case: precise-object-edit. Edit the supplied kitchen photo. Replace the small narrow wall tiles with large-format wide rectangular light warm ivory porcelain tiles, with minimal thin grout lines, correct perspective and realistic finish. Remove the radiator below the window completely, including its pipes and valves, leaving a clean wall below the window. Remove the background left-side upper wall cabinet AND the left-side lower cabinet/drawers and their small wood countertop completely; reconstruct the revealed area as a clean minimalist wall, and a natural unobtrusive floor where visible. Preserve the main stainless steel countertop on the right/foreground, both sink bowls, faucet, hood, window and sill, blue sky and white clouds outside, camera angle and landscape crop. Keep stainless reflections physically consistent with the new larger tiles and cleared background. No new furniture or decorations. Bright clean premium photographic interior. No text or people.

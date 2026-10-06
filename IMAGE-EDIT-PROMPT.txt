@@ -1,5 +1,0 @@
-Tool: built-in image_gen imagegen
-Input: dist/sink-countertop.jpg
-Output: dist/sink-countertop-sky.png
-
-Use case: precise-object-edit. Edit target: the supplied kitchen photo used on a Korean stainless-steel countertop website. Replace ONLY the exterior view visible through the window glass with a beautiful clear blue sky and soft white clouds, as a realistic scenic view through the existing window. Remove the outdoor buildings. Keep the entire indoor kitchen unchanged: stainless countertop, double sink, faucet, cabinets, tiled wall, ventilation hood, window frame, window sill, camera angle, crop, proportions, and original lighting. Match perspective and realistic daylight; subtly consistent sky reflection on existing reflective surfaces only if necessary, without changing their geometry. Preserve the clean premium photographic style. No text, logos, added furnishings, or people. Output same landscape composition as input.
