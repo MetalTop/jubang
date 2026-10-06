@@ -1,0 +1,9 @@
+Tool: built-in ImageGen
+Input: dist/sink-countertop-light-gray-tiles.png
+Output: dist/sink-countertop-near-white-gray-tiles.png
+
+Use case: precise-object-edit
+Input image: edit target, the supplied kitchen scene.
+Primary request: Change ONLY every visible wall tile face to a very pale light gray, almost white, neutral cool off-white gray. The wall tiles must be distinctly brighter and closer to white than the input. Apply this color change consistently to the back wall and right wall, including tile areas around the windows and behind the range hood.
+Materials/textures: Preserve the original fine stone texture on every tile, with the same pattern, subtle surface detail and natural shading. Keep the exact existing tile sizes, boundaries, grout color, grout widths and grout placement.
+Constraints: Preserve exact scene framing, perspective, resolution/aspect ratio, fixtures, sink, running water, faucet, range hood, cooktop, windows and their frames, outdoor sky and plants, vase and flowers, ceiling, lighting, shadows, countertop and cabinets. Do not recolor or alter any other object. Keep the original lighting and reflections. No new objects, no removed objects, no text. This is a localized tile-face color edit only.

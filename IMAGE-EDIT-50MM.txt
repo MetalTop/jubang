@@ -1,0 +1,5 @@
+Tool: built-in image_gen image editing tool
+Input: dist/sink-countertop-16x9.png
+Output: dist/sink-countertop-16x9-50mm.png
+Prompt:
+Use case: precise-object-edit. Edit target: the provided wide kitchen photo. Change only the narrow rear countertop clearance: reduce the stainless steel strip BETWEEN the back edges of the sink/induction and the wall from approximately 150mm to approximately 50mm. Show a noticeably slim 5cm rear stainless strip, shift the fixture placement closer to the charcoal tiled wall accordingly while preserving a coherent realistic kitchen arrangement and perspective. This refers to rear clearance only, not total counter depth; maintain broad visible stainless steel foreground. Preserve landscape 16:9 aspect ratio, the worktop top surface depicted at1200mm from floor, black induction visibly centered, matching hood above, single square basin, running waterfall faucet, charcoal large tiles, long horizontal center window, tall left glazing, blue sky/clouds, large flowering planter, warm natural light. No text, measurement labels, borders or watermarks. Keep everything else unchanged. Output exact16:9 landscape, ideally2048x1152.

@@ -1,0 +1,4 @@
+Tool: built-in ImageGen
+Input: dist/sink-countertop-no-front-floor.png
+Output: dist/sink-countertop-light-gray-tiles.png
+Prompt: Change ONLY the charcoal wall tiles to light neutral gray. Preserve exact original tile sizes, rectangular layout, fine grout lines, perspective, texture, framing, sink, running waterfall faucet, stainless countertop, cabinets, windows, induction hob, hood, planter, lighting and shadows. Photorealistic edit, no other changes.

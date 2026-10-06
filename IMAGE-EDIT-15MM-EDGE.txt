@@ -1,0 +1,5 @@
+Tool: built-in image_gen imagegen
+Input: dist/sink-countertop-rear-cooking.png
+Output: dist/sink-countertop-15mm-edge.png
+
+Use case: precise-object-edit. Edit the supplied stainless countertop kitchen photograph with only one small manufacturing-detail change: along the BACK EDGE of the steel countertop where it meets the charcoal tiled wall, make the raised stainless backsplash lip/upstand very low and slender, approximately 15 millimeters high (1.5 cm). It should read as a minimal neat folded silver rear edge, NOT a tall backsplash panel. Keep the countertop's depth and broad visible foreground surface unchanged. Keep the rear induction cooktop and wall hood in their current positions, single square sink, flowing waterfall faucet, charcoal wall tiles, sunny windows/sky, large flowering planter, daylight, brushed metal finish, and original framing. No labels, dimensional text, extra objects or changes. Realistic proportions and physically coherent seams.

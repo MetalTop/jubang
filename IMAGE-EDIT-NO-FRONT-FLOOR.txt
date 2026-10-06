@@ -1,0 +1,5 @@
+Tool: built-in image_gen image editing tool
+Input: dist/sink-countertop-left-prep.png
+Output: dist/sink-countertop-no-front-floor.png
+Prompt:
+Use case: precise-object-edit. Edit target: provided kitchen photo. Change ONLY camera framing so NO FRONT FLOOR is visible below the white kitchen cabinets. Lower edge of the16:9 image must cut through white cabinet fronts ABOVE toe kick/base, eliminating entire front floor and toe kick. Reframe/extend upper portion as needed rather than changing cabinet dimensions. Keep countertop and both work areas fully visible, and all equipment. Preserve left empty work surface half central prep area,900mm wide single sink LEFT with running waterfall faucet, broad empty central work surface, induction and matching hood RIGHT, front edge alignment, warm white matte handleless lower cabinets, stainless worktop1200mm height illustration,50mm rear clearance, matching low15mm rear/side upstands, charcoal large tiled walls, large centered back window with sky/clouds,tall left glazing and flowering planter, warm natural daylight. Do not show floor along front lower edge. No text, dimensions, border, watermark. Landscape exact16:9.

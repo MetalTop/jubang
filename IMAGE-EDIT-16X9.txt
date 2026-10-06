@@ -1,0 +1,5 @@
+Tool: built-in image_gen image editing tool
+Input: dist/sink-countertop-1200mm-height.png
+Output: dist/sink-countertop-16x9.png
+Prompt:
+Use case: precise-object-edit. Edit target: attached kitchen photograph. Change ONLY the framing to exact landscape 16:9 aspect ratio, preferably 2048x1152. Extend the scene naturally on the sides as needed rather than cutting off essential fixtures. Preserve the same stainless steel worktop with its top surface depicted 1200mm above the floor, centered foreground black induction hob, overhead stainless hood, square single sink and running waterfall faucet farther back, narrow rear strip approximately150mm, charcoal wall tiles, original tall rear-left windows, long horizontal center window, blue sky with clouds, large flowering planter, warm daylight, material textures and perspective. Keep all objects and arrangement faithful. No text or dimension labels, no borders, no watermark.
